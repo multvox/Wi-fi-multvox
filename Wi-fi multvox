@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Conectar ao Wi-Fi</title>
+</head>
+<body>
+    <h1>Conecte-se à rede Wi-Fi</h1>
+    <p>Nome da rede: <b>multvox</b></p>
+    <p>Senha: <b>1234567890</b></p>
+    <p>Ou escaneie o QR Code abaixo:</p>
+    <img src="https://api.qrserver.com/v1/create-qr-code/?data=WIFI%3AT%3AWPA%3BS%3Amultvox%3BP%3A1234567890%3B%3B&size=200x200" alt="QR Code para Wi-Fi">
+</body>
+</html>
